@@ -1,0 +1,5 @@
+ServerManagement.Call();, For script do {
+call function();
+} else {
+enum();
+}
